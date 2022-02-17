@@ -3,20 +3,30 @@
 ## [Project 1: Tweets-Analysis-System](https://github.com/HaydenLiao/Tweets-Analysis-System)
 
 A **MVC** Web Application for Searching Tweets and Analysing the Sentiment of The Results Developed on Play
-*Used **Scrum Agile** methodology in the whole project with team size of 4
-*Built front-end with AngularJS and **Bootstrap**,then connected it to the back-end
-*Retrieved data from **Twitter API** asynchronously and processed the data with **Java8 Stream**
-*Performed **unit tests** for personnel part with **Junit**
-*Modified and updated personnel part with **GitHub**
+
+- Used **Scrum Agile** methodology in the whole project with team size of 4
+
+- Built front-end with AngularJS and **Bootstrap**,then connected it to the back-end
+
+- Retrieved data from **Twitter API** asynchronously and processed the data with **Java8 Stream**
+
+- Performed **unit tests** for personnel part with **Junit**
+
+- Modified and updated personnel part with **GitHub**
 
 ## [Project 2: Project Management Web application](https://github.com/HaydenLiao/Spring-Boot-React)
 
 A Project Management Tool for Adding or Deleting Projects and Setting Tasks with Different Priority
-*Built front-end with **HTML**, **CSS**, **React.js** and Redux
-*Built back-end with **NPM** and **Spring Boot**
-*Used **JWT**(JSON Web Tokes) and **Spring Security** to secure application
-*Used **MySQL** to store and manage data
-*Used **Postman** for **API testing**
+
+- Built front-end with **HTML**, **CSS**, **React.js** and Redux
+
+- Built back-end with **NPM** and **Spring Boot**
+
+- Used **JWT**(JSON Web Tokes) and **Spring Security** to secure application
+
+- Used **MySQL** to store and manage data
+
+- Used **Postman** for **API testing**
 
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">A computer science student graduated from Concordia University.</h3>
