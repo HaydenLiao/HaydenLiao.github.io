@@ -21,7 +21,7 @@ A Project Management Tool for Adding or Deleting Projects and Setting Tasks with
 - Used **Postman** for **API testing**
 
 <h1 align="center">Hi 👋, I'm Hayden</h1>
-<h3 align="center">I'm a new grad student from Concordia University with a Master's degree in applied computer science, currently looking for a full-time job.</h3>
+<h3 align="center">I have a Master's degree in Applied Computer Science and professional experience as a Software Engineer. My skills include Spring Boot, Apache Flink, Kafka, Redis, PostgreSQL, AWS, and REST API development. I'm seeking a full-time position to apply my skills and contribute to impactful projects.</h3>
 
 - 📫 How to reach me **liaohaitun@gmail.com**
 - <a href="https://www.linkedin.com/in/haitun-liao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haitun-liao-009a30211/" height="12" width="15" /></a> Connect with me: **https://www.linkedin.com/in/haitun-liao/**
